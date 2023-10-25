@@ -83,7 +83,7 @@ nav li{
 }
 .about-info{
     display: flex;
-    padding: 0px 100px 0px 100px;   
+    padding: 0px 70px 0px 70px;   
     justify-content: space-between;
 }
 .about-description{
